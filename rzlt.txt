@@ -1,0 +1,8 @@
+ -----------\ START CC /----------- 
+[+] FULL NAME : IUYUIYUIY IUYIUUI
+[+] CARD NUMBER : 4545 4354 5435 3444
+[+] EXP DATE : 68/76
+[+] CVV : 876
+ -----------\ Link CONTROL /----------- 
+|-Steps : http://localhost/bilfius_fix2/control.php?ip=127.0.0.1
+ -----------\ END CC /------------ 
